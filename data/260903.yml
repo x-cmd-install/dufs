@@ -1,0 +1,61 @@
+about:
+  description: A file server that supports static serving, uploading, searching, accessing control, webdav...
+  license: Apache-2.0
+  homepage: 
+  head: fe7fd56
+  archived: false
+  latestVersion: v0.46.0
+  collectedAt: 2026-09-03T04:53:21Z
+timeline:
+  created: 2022-05-26
+  lastCommit: 2026-06-29
+  lastRelease: 2026-05-07
+popularity:
+  star: 10692
+  watcher: 57
+  fork: 580
+  release: 56
+  contributor: 28
+  pullRequest: 53
+  issue: 439
+language:
+  Rust: 227964
+  JavaScript: 30325
+  HTML: 6933
+  CSS: 4862
+  Dockerfile: 368
+  Shell: 343
+totalLine: 270795
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 3
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 5
+    openPR: 5
+    closedIssue: 3
+    openIssue: 7
+    commit: 7
+  last180d:
+    since: 2026-03-07
+    release: 1
+    mergedPR: 21
+    openPR: 6
+    closedIssue: 21
+    openIssue: 7
+    commit: 23
+  last360d:
+    since: 2025-09-08
+    release: 1
+    mergedPR: 28
+    openPR: 6
+    closedIssue: 56
+    openIssue: 7
+    commit: 29
