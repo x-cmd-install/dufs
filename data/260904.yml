@@ -7,7 +7,7 @@ about:
   head: fe7fd56
   archived: false
   latestVersion: v0.46.0
-  collectedAt: 2026-09-04T19:52:28Z
+  collectedAt: 2026-09-04T20:48:50Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-06-29
@@ -85,5 +85,58 @@ total:
   openIssue: 7
   commit: 447
 ---
+path: /home/runner/.x-repo/github.com/sigoden/dufs
+collectedAt: 2026-09-04T20:48:51Z
+loc:
+  Rust:
+    code: 6339
+    comments: 25
+    blanks: 631
+    files: 32
+  JavaScript:
+    code: 796
+    comments: 113
+    blanks: 97
+    files: 1
+  Css:
+    code: 253
+    comments: 4
+    blanks: 49
+    files: 1
+  Html:
+    code: 130
+    comments: 0
+    blanks: 3
+    files: 1
+  Toml:
+    code: 74
+    comments: 0
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 0
+    blanks: 3
+    files: 1
+  Yaml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 4
+    comments: 1
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 748
+    blanks: 420
+    files: 3
+total:
+  code: 7646
+  comments: 922
+  blanks: 1208
+  files: 42
 ---
 
