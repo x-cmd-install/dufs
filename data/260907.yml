@@ -5,13 +5,13 @@ about:
   head: fe7fd56
   archived: false
   latestVersion: "v0.46.0"
-  collectedAt: 2026-09-07T04:26:25Z
+  collectedAt: 2026-09-07T19:58:17Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-06-29
   lastRelease: 2026-05-07
 popularity:
-  star: 10700
+  star: 10705
   watcher: 58
   fork: 585
   release: 56
@@ -84,7 +84,7 @@ total:
   commit: 447
 ---
 path: /home/runner/.x-repo/github.com/sigoden/dufs
-collectedAt: 2026-09-07T04:26:25Z
+collectedAt: 2026-09-07T19:58:17Z
 loc:
   Rust:
     code: 6339
@@ -140,7 +140,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:26:26+00:00
+  collectedAt: 2026-09-07T19:58:18+00:00
   platform:
     darwin/arm64:
       name:  dufs-v0.46.0-aarch64-apple-darwin.tar.gz
