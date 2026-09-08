@@ -5,13 +5,13 @@ about:
   head: fe7fd56
   archived: false
   latestVersion: "v0.46.0"
-  collectedAt: 2026-09-08T01:55:51Z
+  collectedAt: 2026-09-08T04:26:31Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-06-29
   lastRelease: 2026-05-07
 popularity:
-  star: 10706
+  star: 10707
   watcher: 58
   fork: 585
   release: 56
@@ -84,7 +84,7 @@ total:
   commit: 447
 ---
 path: /home/runner/.x-repo/github.com/sigoden/dufs
-collectedAt: 2026-09-08T01:55:52Z
+collectedAt: 2026-09-08T04:26:33Z
 loc:
   Rust:
     code: 6339
