@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2462445,
       "digest": "sha256:2c73fa330447c344111aea9159621af5e2d4460b9227562e09138e5c01d3becf",
-      "download_count": 1087,
+      "download_count": 1100,
       "created_at": "2026-05-07T01:54:01Z",
       "updated_at": "2026-05-07T01:54:01Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2331484,
       "digest": "sha256:530e061b5a26182a7cfebc3d473c397aaef931b07f6eccab9592d5df57ef0c39",
-      "download_count": 703,
+      "download_count": 709,
       "created_at": "2026-05-07T01:53:18Z",
       "updated_at": "2026-05-07T01:53:18Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-pc-windows-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2618631,
       "digest": "sha256:1472123ae3aa07e49404d16b20305c2dec90c59883ebda9308717f7205e6511b",
-      "download_count": 2702,
+      "download_count": 2736,
       "created_at": "2026-05-07T01:51:48Z",
       "updated_at": "2026-05-07T01:51:49Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-unknown-linux-musl.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2385372,
       "digest": "sha256:a2c0a922f944952673ab27706b66f272a76760a8480dc6a067993ab002eca122",
-      "download_count": 219,
+      "download_count": 224,
       "created_at": "2026-05-07T01:51:48Z",
       "updated_at": "2026-05-07T01:51:48Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-arm-unknown-linux-musleabihf.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2311684,
       "digest": "sha256:079f0b7ebfb50851a4c9f88c9b12e100322a1137eb57356d1e902f369618c9f6",
-      "download_count": 299,
+      "download_count": 303,
       "created_at": "2026-05-07T01:51:51Z",
       "updated_at": "2026-05-07T01:51:52Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-armv7-unknown-linux-musleabihf.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2764841,
       "digest": "sha256:f494db0de9e95764199781754147c4a341227d4794b1bcf5dac862bd21c1216a",
-      "download_count": 826,
+      "download_count": 840,
       "created_at": "2026-05-07T01:51:20Z",
       "updated_at": "2026-05-07T01:51:21Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2323817,
       "digest": "sha256:21d829653ac1f178b124ed384e2a57df19b99ae404935cba9a1a5719c199b0bf",
-      "download_count": 4917,
+      "download_count": 4952,
       "created_at": "2026-05-07T01:53:37Z",
       "updated_at": "2026-05-07T01:53:37Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-pc-windows-msvc.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2898409,
       "digest": "sha256:817769f726613194bcff9d0e3e481eaccc86ac11208857614f36a8c02f410977",
-      "download_count": 9853,
+      "download_count": 10048,
       "created_at": "2026-05-07T01:51:53Z",
       "updated_at": "2026-05-07T01:51:53Z",
       "browser_download_url": "https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-unknown-linux-musl.tar.gz"
