@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.46.0"
   latestRelease: "v0.46.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:28:40Z
+  collectedAt: 2026-09-10T16:20:20Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-06-29
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-07
   lastPrerelease: 
 popularity:
-  star: 10716
+  star: 10720
   watcher: 58
   fork: 587
   release: 56
@@ -88,7 +88,7 @@ total:
   commit: 447
 ---
 path: /home/runner/.x-repo/github.com/sigoden/dufs
-collectedAt: 2026-09-10T04:28:41Z
+collectedAt: 2026-09-10T16:20:28Z
 loc:
   Rust:
     code: 6339
