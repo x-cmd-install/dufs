@@ -12,6 +12,18 @@ A file server that supports static serving, uploading, searching, accessing cont
 x install dufs
 ```
 
+## 代码规模
+
+合计: **7,616** 行代码（覆盖前 5 种语言、共 **36** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 6,339 | 25 | 631 | 32 |
+| JavaScript | 796 | 113 | 97 | 1 |
+| Css | 253 | 4 | 49 | 1 |
+| Html | 130 | 0 | 3 | 1 |
+| Toml | 74 | 0 | 4 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/sigoden/dufs>
@@ -22,19 +34,6 @@ x install dufs
 - **最新版本**: `v0.46.0` (2026-05-07)
 - **最近提交**: 2026-06-29
 - **Release 含资产**: 8 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [dufs-v0.46.0-aarch64-apple-darwin.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
-| [dufs-v0.46.0-aarch64-pc-windows-msvc.zip](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-pc-windows-msvc.zip) | 2.2 MiB | `native/win/arm64` |
-| [dufs-v0.46.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-unknown-linux-musl.tar.gz) | 2.5 MiB | `native/linux/arm64/musl` |
-| [dufs-v0.46.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-arm-unknown-linux-musleabihf.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
-| [dufs-v0.46.0-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-armv7-unknown-linux-musleabihf.tar.gz) | 2.2 MiB | `native/linux/arm/musl` |
-| [dufs-v0.46.0-x86_64-apple-darwin.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-apple-darwin.tar.gz) | 2.6 MiB | `native/darwin/x64` |
-| [dufs-v0.46.0-x86_64-pc-windows-msvc.zip](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-pc-windows-msvc.zip) | 2.2 MiB | `native/win/x64` |
-| [dufs-v0.46.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-unknown-linux-musl.tar.gz) | 2.8 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -49,20 +48,35 @@ x install dufs
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 10 | 0 | 5 | 0 |
 | 90d | 2026-06-12 | 0 | 2 | 10 | 1 | 7 | 2 |
+| last180d | 2026-03-14 | 1 | 21 | 11 | 20 | 7 | 23 |
 | 360d | 2025-09-15 | 1 | 28 | 11 | 55 | 7 | 29 |
+| last720d | 2024-09-20 | 4 | 59 | 11 | 184 | 7 | 64 |
 
-## 代码规模
+## Release 资产
 
-合计: **7,616** 行代码（覆盖前 5 种语言、共 **36** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dufs-v0.46.0-aarch64-apple-darwin.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/arm64` |
+| [dufs-v0.46.0-aarch64-pc-windows-msvc.zip](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-pc-windows-msvc.zip) | 2.2 MiB | `native/win/arm64` |
+| [dufs-v0.46.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-aarch64-unknown-linux-musl.tar.gz) | 2.5 MiB | `native/linux/arm64/musl` |
+| [dufs-v0.46.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-arm-unknown-linux-musleabihf.tar.gz) | 2.3 MiB | `native/linux/arm/musl` |
+| [dufs-v0.46.0-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-armv7-unknown-linux-musleabihf.tar.gz) | 2.2 MiB | `native/linux/arm/musl` |
+| [dufs-v0.46.0-x86_64-apple-darwin.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-apple-darwin.tar.gz) | 2.6 MiB | `native/darwin/x64` |
+| [dufs-v0.46.0-x86_64-pc-windows-msvc.zip](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-pc-windows-msvc.zip) | 2.2 MiB | `native/win/x64` |
+| [dufs-v0.46.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.46.0/dufs-v0.46.0-x86_64-unknown-linux-musl.tar.gz) | 2.8 MiB | `native/linux/x64/musl` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 6,339 | 25 | 631 | 32 |
-| JavaScript | 796 | 113 | 97 | 1 |
-| Css | 253 | 4 | 49 | 1 |
-| Html | 130 | 0 | 3 | 1 |
-| Toml | 74 | 0 | 4 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/dufs) 上共有 **39** 个发行版报告此项目。**23** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.46.0` | ✅ latest |
+| Nix unstable | `0.46.0` | ✅ latest |
+| Void | `0.46.0` | ✅ latest |
+| Alpine edge | `0.46.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -73,4 +87,4 @@ dufs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:20:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:08:20Z._
