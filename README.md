@@ -37,7 +37,7 @@ Total: **9,874** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,955 · **Forks**: 606 · **Open issues**: 440 · **Contributors**: 33
+- **Stars**: 10,961 · **Forks**: 606 · **Open issues**: 440 · **Contributors**: 33
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **9,874** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 25 | 1 | 2 | 0 | 29 |
-| last60d | 2026-08-23 | 1 | 26 | 1 | 4 | 0 | 29 |
-| 90d | 2026-07-24 | 1 | 28 | 1 | 6 | 0 | 29 |
-| last180d | 2026-04-25 | 2 | 41 | 2 | 24 | 0 | 42 |
-| 360d | 2025-10-27 | 2 | 56 | 2 | 54 | 0 | 58 |
-| last720d | 2024-11-01 | 5 | 84 | 2 | 180 | 0 | 90 |
+| 30d | 2026-09-23 | 1 | 25 | 1 | 2 | 0 | 29 |
+| last60d | 2026-08-24 | 1 | 26 | 1 | 4 | 0 | 29 |
+| 90d | 2026-07-25 | 1 | 28 | 1 | 6 | 0 | 29 |
+| last180d | 2026-04-26 | 2 | 40 | 2 | 23 | 0 | 42 |
+| 360d | 2025-10-28 | 2 | 56 | 2 | 54 | 0 | 58 |
+| last720d | 2024-11-02 | 5 | 84 | 2 | 180 | 0 | 90 |
 
 ## Release assets
 
@@ -67,6 +67,17 @@ Total: **9,874** lines of code across **38** files in the top 5 languages.
 | [dufs-v0.47.0-x86_64-pc-windows-msvc.zip](https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-x86_64-pc-windows-msvc.zip) | 1.7 MiB | `native/win/x64` |
 | [dufs-v0.47.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sigoden/dufs/releases/download/v0.47.0/dufs-v0.47.0-x86_64-unknown-linux-musl.tar.gz) | 2.0 MiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **39** distros on [repology.org](https://repology.org/project/dufs). **12** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.47.0` | ✅ latest |
+| Nix unstable | `0.47.0` | ✅ latest |
+| Void | `0.46.0` | ⚠️ outdated |
+| Alpine edge | `0.47.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dufs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +87,4 @@ Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:30:50Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:36:02Z._
