@@ -14,11 +14,11 @@ x install dufs
 
 ## Code insight
 
-Total: **9,902** lines of code across **38** files in the top 5 languages.
+Total: **10,049** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,494 | 154 | 856 | 34 |
+| Rust | 8,641 | 157 | 868 | 34 |
 | JavaScript | 911 | 150 | 102 | 1 |
 | Css | 264 | 4 | 51 | 1 |
 | Html | 134 | 0 | 3 | 1 |
@@ -37,22 +37,22 @@ Total: **9,902** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,993 · **Forks**: 609 · **Open issues**: 443 · **Contributors**: 34
+- **Stars**: 10,997 · **Forks**: 609 · **Open issues**: 443 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 270 · **Open PRs**: 2 · **Closed issues**: 443 · **Open issues**: 0 · **Commits**: 477
+- **Releases**: 57 · **Merged PRs**: 271 · **Open PRs**: 2 · **Closed issues**: 443 · **Open issues**: 0 · **Commits**: 478
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 26 | 1 | 2 | 0 | 30 |
-| last60d | 2026-08-29 | 1 | 27 | 1 | 4 | 0 | 30 |
-| 90d | 2026-07-30 | 1 | 27 | 1 | 7 | 0 | 30 |
-| last180d | 2026-05-01 | 2 | 39 | 2 | 23 | 0 | 42 |
-| 360d | 2025-11-02 | 2 | 57 | 2 | 48 | 0 | 59 |
-| last720d | 2024-11-07 | 4 | 84 | 2 | 181 | 0 | 90 |
+| 30d | 2026-09-29 | 1 | 27 | 1 | 2 | 0 | 31 |
+| last60d | 2026-08-30 | 1 | 28 | 1 | 4 | 0 | 31 |
+| 90d | 2026-07-31 | 1 | 28 | 1 | 7 | 0 | 31 |
+| last180d | 2026-05-02 | 2 | 40 | 2 | 23 | 0 | 43 |
+| 360d | 2025-11-03 | 2 | 58 | 2 | 48 | 0 | 60 |
+| last720d | 2024-11-08 | 4 | 85 | 2 | 181 | 0 | 91 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:29:02Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:37:11Z._
