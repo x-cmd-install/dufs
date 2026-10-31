@@ -1,16 +1,3 @@
-- repo: liguros_develop
-  srcname: www-misc/dufs
-  visiblename: www-misc/dufs
-  version: 0.40.0
-  origversion: null
-  status: legacy
-  summary: Dufs is a distinctive utility file server
-  maintainers:
-    - ceres@ceressees.dev
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
-  categories:
-    - www-misc
 - repo: alpine_3_23
   subrepo: community
   srcname: dufs
@@ -327,6 +314,19 @@
   summary: Dufs is a distinctive utility file server
   maintainers:
     - fallback-mnt-liguros@repology
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
+  categories:
+    - www-misc
+- repo: liguros_develop
+  srcname: www-misc/dufs
+  visiblename: www-misc/dufs
+  version: 0.40.0
+  origversion: null
+  status: legacy
+  summary: Dufs is a distinctive utility file server
+  maintainers:
+    - ceres@ceressees.dev
   licenses:
     - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
   categories:
