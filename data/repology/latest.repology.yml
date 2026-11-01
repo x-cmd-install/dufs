@@ -102,6 +102,18 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
+- repo: aur
+  srcname: dufs-git
+  binname: dufs-git
+  visiblename: dufs-git
+  version: 0.46.0.r9.gb22ad6d
+  origversion: 0.46.0.r9.gb22ad6d-1
+  status: rolling
+  summary: A file server that supports static serving, uploading, searching, accessing control, webdav...
+  maintainers:
+    - seiuneko@aur
+  licenses:
+    - MIT OR Apache-2.0
 - repo: alpine_3_24
   subrepo: community
   srcname: dufs
@@ -248,18 +260,6 @@
   licenses:
     - Apache
     - MIT
-- repo: aur
-  srcname: dufs-git
-  binname: dufs-git
-  visiblename: dufs-git
-  version: 0.46.0.r9.gb22ad6d
-  origversion: 0.46.0.r9.gb22ad6d-1
-  status: rolling
-  summary: A file server that supports static serving, uploading, searching, accessing control, webdav...
-  maintainers:
-    - seiuneko@aur
-  licenses:
-    - MIT OR Apache-2.0
 - repo: freebsd
   srcname: www/dufs
   binname: dufs
