@@ -1,15 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: dufs
-  visiblename: dufs
-  version: 0.45.0
-  origversion: null
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
-  maintainers:
-    - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: dufs
@@ -218,19 +206,22 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
-- repo: nix_stable_25_05
+- repo: alt_p11
   srcname: dufs
+  binnames:
+    - dufs
+    - dufs-debuginfo
   visiblename: dufs
-  version: 0.43.0
-  origversion: null
+  version: 0.46.0
+  origversion: 0.46.0-alt1
   status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  summary: A file server that supports static serving, uploading, searching, accessing control, webdav
   maintainers:
-    - figsoda@pm.me
-    - holymonson@gmail.com
+    - kotopesutility@altlinux.org
   licenses:
-    - Apache-2.0
-    - MIT
+    - Apache-2.0 or MIT
+  categories:
+    - System/Servers
 - repo: altsisyphus
   srcname: dufs
   binnames:
@@ -406,6 +397,31 @@
   summary: File server that supports static serving, uploading, searching, accessing control, webdav
   maintainers:
     - figsoda@pm.me
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: dufs
+  visiblename: dufs
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
+    - figsoda@pm.me
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dufs
+  visiblename: dufs
+  version: 0.45.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
     - holymonson@gmail.com
   licenses:
     - Apache-2.0
