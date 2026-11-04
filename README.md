@@ -37,22 +37,22 @@ Total: **10,100** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,025 · **Forks**: 615 · **Open issues**: 445 · **Contributors**: 34
+- **Stars**: 11,032 · **Forks**: 616 · **Open issues**: 446 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 272 · **Open PRs**: 3 · **Closed issues**: 444 · **Open issues**: 1 · **Commits**: 479
+- **Releases**: 57 · **Merged PRs**: 272 · **Open PRs**: 3 · **Closed issues**: 444 · **Open issues**: 2 · **Commits**: 479
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 28 | 2 | 3 | 1 | 32 |
-| last60d | 2026-09-04 | 1 | 28 | 2 | 5 | 1 | 32 |
-| 90d | 2026-08-05 | 1 | 29 | 2 | 8 | 1 | 32 |
-| last180d | 2026-05-07 | 2 | 41 | 3 | 23 | 1 | 43 |
-| 360d | 2025-11-08 | 2 | 59 | 3 | 48 | 1 | 61 |
-| last720d | 2024-11-13 | 4 | 86 | 3 | 178 | 1 | 92 |
+| 30d | 2026-10-05 | 1 | 28 | 2 | 3 | 2 | 32 |
+| last60d | 2026-09-05 | 1 | 28 | 2 | 5 | 2 | 32 |
+| 90d | 2026-08-06 | 1 | 29 | 2 | 8 | 2 | 32 |
+| last180d | 2026-05-08 | 1 | 41 | 3 | 23 | 2 | 43 |
+| 360d | 2025-11-09 | 2 | 59 | 3 | 48 | 2 | 61 |
+| last720d | 2024-11-14 | 4 | 86 | 3 | 178 | 2 | 92 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **10,100** lines of code across **38** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/dufs). **12** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+Reported by **40** distros on [repology.org](https://repology.org/project/dufs). **12** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:33:01Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:03:27Z._
