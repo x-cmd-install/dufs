@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: dufs
+  visiblename: dufs
+  version: 0.47.0
+  origversion: null
+  status: newest
+  summary: Static file server
 - repo: alpine_3_23
   subrepo: community
   srcname: dufs
@@ -24,6 +31,19 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
+- repo: liguros_stable
+  srcname: www-misc/dufs
+  visiblename: www-misc/dufs
+  version: 0.40.0
+  origversion: null
+  status: outdated
+  summary: Dufs is a distinctive utility file server
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
+  categories:
+    - www-misc
 - repo: alpine_3_23
   subrepo: community
   srcname: dufs
@@ -154,6 +174,19 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
+- repo: liguros_develop
+  srcname: www-misc/dufs
+  visiblename: www-misc/dufs
+  version: 0.40.0
+  origversion: null
+  status: legacy
+  summary: Dufs is a distinctive utility file server
+  maintainers:
+    - ceres@ceressees.dev
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
+  categories:
+    - www-misc
 - repo: alpine_edge
   subrepo: community
   srcname: dufs
@@ -314,39 +347,6 @@
     - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
   categories:
     - www-misc
-- repo: homebrew
-  srcname: dufs
-  visiblename: dufs
-  version: 0.47.0
-  origversion: null
-  status: newest
-  summary: Static file server
-- repo: liguros_stable
-  srcname: www-misc/dufs
-  visiblename: www-misc/dufs
-  version: 0.40.0
-  origversion: null
-  status: outdated
-  summary: Dufs is a distinctive utility file server
-  maintainers:
-    - fallback-mnt-liguros@repology
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
-  categories:
-    - www-misc
-- repo: liguros_develop
-  srcname: www-misc/dufs
-  visiblename: www-misc/dufs
-  version: 0.40.0
-  origversion: null
-  status: legacy
-  summary: Dufs is a distinctive utility file server
-  maintainers:
-    - ceres@ceressees.dev
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
-  categories:
-    - www-misc
 - repo: liguros_develop
   srcname: www-misc/dufs
   visiblename: www-misc/dufs
@@ -448,9 +448,6 @@
   maintainers:
     - hi@ketanvijayvargiya.com
     - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: openbsd
   srcname: www/dufs
   binname: dufs
