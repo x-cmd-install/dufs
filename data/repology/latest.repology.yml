@@ -1,3 +1,41 @@
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dufs
+  binname: dufs-doc
+  visiblename: dufs-doc
+  version: 0.46.0
+  origversion: 0.46.0-r0
+  status: outdated
+  summary: A file server that supports static serving, uploading, searching, accessing control, webdav... (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - MIT OR Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: dufs
+  binname: dufs-fish-completion
+  visiblename: dufs-fish-completion
+  version: 0.46.0
+  origversion: 0.46.0-r0
+  status: outdated
+  summary: Fish completions for dufs
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - MIT OR Apache-2.0
+- repo: nix_stable_25_11
+  srcname: dufs
+  visiblename: dufs
+  version: 0.45.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: dufs
@@ -76,19 +114,6 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
-- repo: nix_stable_25_05
-  srcname: dufs
-  visiblename: dufs
-  version: 0.43.0
-  origversion: null
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
-  maintainers:
-    - figsoda@pm.me
-    - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: dufs
@@ -102,30 +127,16 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: dufs
-  binname: dufs-doc
-  visiblename: dufs-doc
-  version: 0.46.0
-  origversion: 0.46.0-r0
-  status: outdated
-  summary: A file server that supports static serving, uploading, searching, accessing control, webdav... (documentation)
+- repo: aur
+  srcname: dufs-git
+  binname: dufs-git
+  visiblename: dufs-git
+  version: 0.46.0.r9.gb22ad6d
+  origversion: 0.46.0.r9.gb22ad6d-1
+  status: rolling
+  summary: A file server that supports static serving, uploading, searching, accessing control, webdav...
   maintainers:
-    - qaq@qaq.land
-  licenses:
-    - MIT OR Apache-2.0
-- repo: alpine_3_24
-  subrepo: community
-  srcname: dufs
-  binname: dufs-fish-completion
-  visiblename: dufs-fish-completion
-  version: 0.46.0
-  origversion: 0.46.0-r0
-  status: outdated
-  summary: Fish completions for dufs
-  maintainers:
-    - qaq@qaq.land
+    - seiuneko@aur
   licenses:
     - MIT OR Apache-2.0
 - repo: alpine_3_24
@@ -277,18 +288,6 @@
   licenses:
     - Apache
     - MIT
-- repo: aur
-  srcname: dufs-git
-  binname: dufs-git
-  visiblename: dufs-git
-  version: 0.46.0.r9.gb22ad6d
-  origversion: 0.46.0.r9.gb22ad6d-1
-  status: rolling
-  summary: A file server that supports static serving, uploading, searching, accessing control, webdav...
-  maintainers:
-    - seiuneko@aur
-  licenses:
-    - MIT OR Apache-2.0
 - repo: freebsd
   srcname: www/dufs
   binname: dufs
@@ -414,14 +413,15 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_25_11
+- repo: nix_stable_25_05
   srcname: dufs
   visiblename: dufs
-  version: 0.45.0
+  version: 0.43.0
   origversion: null
   status: outdated
   summary: File server that supports static serving, uploading, searching, accessing control, webdav
   maintainers:
+    - figsoda@pm.me
     - holymonson@gmail.com
   licenses:
     - Apache-2.0
