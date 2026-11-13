@@ -37,7 +37,7 @@ Total: **10,415** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,094 · **Forks**: 620 · **Open issues**: 446 · **Contributors**: 34
+- **Stars**: 11,098 · **Forks**: 621 · **Open issues**: 446 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **10,415** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 23 | 2 | 2 | 2 | 21 |
-| last60d | 2026-09-13 | 1 | 30 | 2 | 4 | 2 | 34 |
-| 90d | 2026-08-14 | 1 | 31 | 2 | 8 | 2 | 34 |
-| last180d | 2026-05-16 | 1 | 43 | 2 | 21 | 2 | 45 |
-| 360d | 2025-11-17 | 2 | 61 | 3 | 47 | 2 | 63 |
-| last720d | 2024-11-22 | 4 | 88 | 3 | 172 | 2 | 92 |
+| 30d | 2026-10-14 | 1 | 19 | 2 | 2 | 2 | 21 |
+| last60d | 2026-09-14 | 1 | 30 | 2 | 4 | 2 | 34 |
+| 90d | 2026-08-15 | 1 | 31 | 2 | 8 | 2 | 34 |
+| last180d | 2026-05-17 | 1 | 43 | 2 | 20 | 2 | 45 |
+| 360d | 2025-11-18 | 2 | 61 | 3 | 47 | 2 | 63 |
+| last720d | 2024-11-23 | 4 | 88 | 3 | 172 | 2 | 92 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **10,415** lines of code across **38** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **40** distros on [repology.org](https://repology.org/project/dufs). **12** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
+Reported by **41** distros on [repology.org](https://repology.org/project/dufs). **13** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:07:33Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:28:44Z._
