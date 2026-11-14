@@ -14,11 +14,11 @@ x install dufs
 
 ## Code insight
 
-Total: **10,415** lines of code across **38** files in the top 5 languages.
+Total: **10,483** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,007 | 159 | 913 | 34 |
+| Rust | 9,075 | 174 | 918 | 34 |
 | JavaScript | 911 | 151 | 102 | 1 |
 | Css | 264 | 4 | 51 | 1 |
 | Html | 134 | 0 | 3 | 1 |
@@ -32,27 +32,27 @@ Total: **10,415** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.47.0` (2026-10-17)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-13
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 11,098 · **Forks**: 621 · **Open issues**: 446 · **Contributors**: 34
+- **Stars**: 11,103 · **Forks**: 622 · **Open issues**: 446 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 274 · **Open PRs**: 3 · **Closed issues**: 444 · **Open issues**: 2 · **Commits**: 481
+- **Releases**: 57 · **Merged PRs**: 276 · **Open PRs**: 3 · **Closed issues**: 444 · **Open issues**: 2 · **Commits**: 483
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 19 | 2 | 2 | 2 | 21 |
-| last60d | 2026-09-14 | 1 | 30 | 2 | 4 | 2 | 34 |
-| 90d | 2026-08-15 | 1 | 31 | 2 | 8 | 2 | 34 |
-| last180d | 2026-05-17 | 1 | 43 | 2 | 20 | 2 | 45 |
-| 360d | 2025-11-18 | 2 | 61 | 3 | 47 | 2 | 63 |
-| last720d | 2024-11-23 | 4 | 88 | 3 | 172 | 2 | 92 |
+| 30d | 2026-10-15 | 1 | 20 | 2 | 2 | 2 | 23 |
+| last60d | 2026-09-15 | 1 | 32 | 2 | 4 | 2 | 36 |
+| 90d | 2026-08-16 | 1 | 33 | 2 | 7 | 2 | 36 |
+| last180d | 2026-05-18 | 1 | 45 | 2 | 20 | 2 | 47 |
+| 360d | 2025-11-19 | 2 | 63 | 3 | 47 | 2 | 65 |
+| last720d | 2024-11-24 | 4 | 90 | 3 | 171 | 2 | 94 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:28:44Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:12:27Z._
