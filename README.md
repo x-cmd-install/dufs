@@ -14,15 +14,15 @@ x install dufs
 
 ## Code insight
 
-Total: **10,483** lines of code across **38** files in the top 5 languages.
+Total: **11,276** lines of code across **38** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,075 | 174 | 918 | 34 |
+| Rust | 9,869 | 223 | 976 | 34 |
 | JavaScript | 911 | 151 | 102 | 1 |
 | Css | 264 | 4 | 51 | 1 |
 | Html | 134 | 0 | 3 | 1 |
-| Toml | 75 | 0 | 4 | 1 |
+| Toml | 74 | 0 | 4 | 1 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **10,483** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.47.0` (2026-10-17)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 11,103 · **Forks**: 622 · **Open issues**: 446 · **Contributors**: 36
+- **Stars**: 11,108 · **Forks**: 622 · **Open issues**: 446 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 276 · **Open PRs**: 3 · **Closed issues**: 444 · **Open issues**: 2 · **Commits**: 483
+- **Releases**: 57 · **Merged PRs**: 280 · **Open PRs**: 2 · **Closed issues**: 444 · **Open issues**: 2 · **Commits**: 487
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 20 | 2 | 2 | 2 | 23 |
-| last60d | 2026-09-15 | 1 | 32 | 2 | 4 | 2 | 36 |
-| 90d | 2026-08-16 | 1 | 33 | 2 | 7 | 2 | 36 |
-| last180d | 2026-05-18 | 1 | 45 | 2 | 20 | 2 | 47 |
-| 360d | 2025-11-19 | 2 | 63 | 3 | 47 | 2 | 65 |
-| last720d | 2024-11-24 | 4 | 90 | 3 | 171 | 2 | 94 |
+| 30d | 2026-10-16 | 1 | 21 | 1 | 2 | 2 | 11 |
+| last60d | 2026-09-16 | 1 | 36 | 1 | 4 | 2 | 40 |
+| 90d | 2026-08-17 | 1 | 37 | 1 | 6 | 2 | 40 |
+| last180d | 2026-05-19 | 1 | 49 | 1 | 19 | 2 | 49 |
+| 360d | 2025-11-20 | 2 | 67 | 2 | 47 | 2 | 69 |
+| last720d | 2024-11-25 | 4 | 94 | 2 | 170 | 2 | 98 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:12:27Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:13:18Z._
