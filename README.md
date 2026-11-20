@@ -37,7 +37,7 @@ Total: **11,276** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,135 · **Forks**: 625 · **Open issues**: 448 · **Contributors**: 36
+- **Stars**: 11,138 · **Forks**: 626 · **Open issues**: 448 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **11,276** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 17 | 1 | 2 | 4 | 11 |
-| last60d | 2026-09-20 | 1 | 36 | 2 | 4 | 4 | 40 |
-| 90d | 2026-08-21 | 1 | 37 | 2 | 6 | 4 | 40 |
-| last180d | 2026-05-23 | 1 | 48 | 2 | 18 | 4 | 49 |
-| 360d | 2025-11-24 | 2 | 67 | 3 | 47 | 4 | 69 |
-| last720d | 2024-11-29 | 4 | 94 | 3 | 168 | 4 | 98 |
+| 30d | 2026-10-21 | 0 | 12 | 1 | 2 | 4 | 11 |
+| last60d | 2026-09-21 | 1 | 36 | 2 | 4 | 4 | 40 |
+| 90d | 2026-08-22 | 1 | 37 | 2 | 6 | 4 | 40 |
+| last180d | 2026-05-24 | 1 | 47 | 2 | 18 | 4 | 49 |
+| 360d | 2025-11-25 | 2 | 67 | 3 | 47 | 4 | 69 |
+| last720d | 2024-11-30 | 4 | 94 | 3 | 168 | 4 | 98 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for dufs lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:13:19Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:01:03Z._
