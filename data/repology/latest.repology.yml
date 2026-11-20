@@ -295,6 +295,30 @@
     - ashish@freebsd.org
   categories:
     - www
+- repo: nix_stable_25_11
+  srcname: dufs
+  visiblename: dufs
+  version: 0.45.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_26_05
+  srcname: dufs
+  visiblename: dufs
+  version: 0.45.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: gentoo_ovl_guru
   srcname: www-misc/dufs
   visiblename: www-misc/dufs
@@ -328,20 +352,6 @@
   origversion: null
   status: newest
   summary: Static file server
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: dufs
-  binname: dufs
-  visiblename: dufs
-  version: 0.46.0
-  origversion: 0.46.0_1
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, etc
-  maintainers:
-    - chrysostom349@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: liguros_stable
   srcname: www-misc/dufs
   visiblename: www-misc/dufs
@@ -435,30 +445,6 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_25_11
-  srcname: dufs
-  visiblename: dufs
-  version: 0.45.0
-  origversion: null
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
-  maintainers:
-    - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_26_05
-  srcname: dufs
-  visiblename: dufs
-  version: 0.45.0
-  origversion: null
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
-  maintainers:
-    - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: nix_unstable
   srcname: dufs
   visiblename: dufs
@@ -512,3 +498,17 @@
   summary: A file server that supports static serving, uploading, searching, accessing control, webdav...
   maintainers:
     - termux@github
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: dufs
+  binname: dufs
+  visiblename: dufs
+  version: 0.46.0
+  origversion: 0.46.0_1
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, etc
+  maintainers:
+    - chrysostom349@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
