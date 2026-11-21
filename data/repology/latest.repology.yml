@@ -76,6 +76,19 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
+- repo: nix_stable_24_11
+  srcname: dufs
+  visiblename: dufs
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
+    - figsoda@pm.me
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: dufs
@@ -295,30 +308,6 @@
     - ashish@freebsd.org
   categories:
     - www
-- repo: nix_stable_25_11
-  srcname: dufs
-  visiblename: dufs
-  version: 0.45.0
-  origversion: null
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
-  maintainers:
-    - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_26_05
-  srcname: dufs
-  visiblename: dufs
-  version: 0.45.0
-  origversion: null
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
-  maintainers:
-    - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: gentoo_ovl_guru
   srcname: www-misc/dufs
   visiblename: www-misc/dufs
@@ -419,7 +408,7 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_24_11
+- repo: nix_stable_25_05
   srcname: dufs
   visiblename: dufs
   version: 0.43.0
@@ -432,15 +421,26 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: nix_stable_25_05
+- repo: nix_stable_25_11
   srcname: dufs
   visiblename: dufs
-  version: 0.43.0
+  version: 0.45.0
   origversion: null
   status: outdated
   summary: File server that supports static serving, uploading, searching, accessing control, webdav
   maintainers:
-    - figsoda@pm.me
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_26_05
+  srcname: dufs
+  visiblename: dufs
+  version: 0.45.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
     - holymonson@gmail.com
   licenses:
     - Apache-2.0
