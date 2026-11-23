@@ -76,19 +76,6 @@
     - qaq@qaq.land
   licenses:
     - MIT OR Apache-2.0
-- repo: nix_stable_24_11
-  srcname: dufs
-  visiblename: dufs
-  version: 0.43.0
-  origversion: null
-  status: outdated
-  summary: File server that supports static serving, uploading, searching, accessing control, webdav
-  maintainers:
-    - figsoda@pm.me
-    - holymonson@gmail.com
-  licenses:
-    - Apache-2.0
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: dufs
@@ -402,6 +389,19 @@
   origversion: null
   status: outdated
   summary: A file server that supports static serving, uploading, searching, accessing control, webdav
+  maintainers:
+    - figsoda@pm.me
+    - holymonson@gmail.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_24_11
+  srcname: dufs
+  visiblename: dufs
+  version: 0.43.0
+  origversion: null
+  status: outdated
+  summary: File server that supports static serving, uploading, searching, accessing control, webdav
   maintainers:
     - figsoda@pm.me
     - holymonson@gmail.com
